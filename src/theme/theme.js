@@ -1,8 +1,9 @@
 export const theme = {
   fonts: {
-    main: "Titillium"
+    main: "Titillium Web"
   },
   colors: {
-    fontPrimary: "#000000",
+    black: "#000000",
+    grey: "#EEEEEE"
   }
 }
